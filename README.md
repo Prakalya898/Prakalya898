@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **prakalyabs385@gmail.com**
 
-- ⚡ Fun fact **I beleive that positivity is contagious and strive to uplift others whenever I can**
+- ⚡ Fun fact **Did you know? I firmly believe in the contagious nature of positivity and make it my mission to spread encouragement wherever I go."**
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakalya898&show_icons=true&locale=en&layout=compact" alt="prakalya898" /></p>
