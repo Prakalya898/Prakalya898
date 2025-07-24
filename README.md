@@ -2,7 +2,8 @@
 <br>
 <h3 align="left">My Expertise lies in data science and I'm dedicated to leveraging it for impactful solution.📈</h3>
 <img align="right" alt="Coding" height="270" width="270" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-- 🌱 I’m currently pursuing **M.Sc DataScience(Integrated)**
+- 🎓 M.Sc in Data Science (Integrated) — Graduated
+
 
 - 📫 How to reach me **prakalyabs385@gmail.com**
 
